@@ -2,7 +2,7 @@ var box=document.getElementById("window");
 w=box.width;
 h=box.height;
 var ctx=box.getContext("2d");
-var pos={x:40,y:0};
+var pos={x:140,y:0};
 var score=0;
 var s=[
     [0,1,1],
